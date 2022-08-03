@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UCuYaOengaOl4qoIE4U-SixQ/featured)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/sanket-lanjewar-496282208/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Sanket-red)](https://www.youtube.com/channel/UCuYaOengaOl4qoIE4U-SixQ/featured)
+[![Linkedin Badge](https://img.shields.io/badge/-Sanket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/sanket-lanjewar-496282208/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/19653078/sanket-lanjewer)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Sanket-yellow)](https://stackoverflow.com/users/19653078/sanket-lanjewer)
 
 I'm
 Full Stack Solution Architect
